@@ -1,0 +1,19 @@
+Host goingmarry
+HostName shell.kkcorp
+User yachinglin
+
+Host enterprise
+HostName enterprise.kkinternal.com
+User yachinglin
+
+Host macross
+HostName macross.kk-box.com
+User yachinglin
+
+Host macross7
+HostName macross7.kk-box.com
+User yachinglin
+
+Host voyager
+HostName voyager.kkinternal.com
+User yachinglin
